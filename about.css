@@ -1,0 +1,29 @@
+body {
+    background: #202020;
+}
+h1{
+    
+    color: #ffffff;
+    
+}
+li {
+          font-family: inherit;
+            letter-spacing: 0.02rem;
+            cursor: pointer;
+            background: transparent;
+            border: 0.2rem solid currentColor;
+            padding: 0.5rem 0.6rem;
+            font-size: 1em;
+            color: #FFFFFF;
+            position: fixed;
+            transition: color 0.3s;
+            z-index: 1;
+            top: 1em;
+            right: 1em;
+            border-radius: 20px;
+            /* zoom: .4; */
+        }
+h3{
+    
+   color: #ffffff; 
+}
